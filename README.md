@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Working Hours Selector - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Working Hours Selector component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/working-hours-selector)
+- [Info Page](https://codyhouse.co/ds/components/info/working-hours-selector)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
